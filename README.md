@@ -32,7 +32,7 @@ The target variable:
 | **ST slope** | 1: Upward<br>2: Flat<br>3: Downward | Nominal |
 | **target** | 0 = Normal, 1 = Heart Disease | Binary |
 
-## 🧠 Approach & Methodology
+## Approach & Methodology
 
 ### **1. Exploratory Data Analysis**
 - Distribution of key medical indicators  
@@ -58,7 +58,7 @@ A LightGBM model was trained for this classification task.
 
 ### **4. Evaluation Metrics**
 
-### Classification Report (Proper Table)
+### Classification Report
 
 | Class | Precision | Recall | F1-Score | Support |
 |-------|-----------|--------|----------|---------|
